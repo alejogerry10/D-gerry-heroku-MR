@@ -20,3 +20,9 @@ tmp/classes/helpers/CheatSheetHelper$1.class
 tmp/classes/helpers/CheatSheetHelper$2.class
 tmp/classes/helpers/CheatSheetHelper$3.class
 tmp/classes/helpers/CheatSheetHelper.class
+tmp/bytecode/DEV/_app_views_errors_404.html
+tmp/bytecode/DEV/_play__framework_templates_tags_404.html
+tmp/bytecode/PROD/_app_views_Application_index.html
+tmp/bytecode/PROD/_app_views_errors_500.html
+tmp/bytecode/PROD/_app_views_main.html
+tmp/bytecode/PROD/_play__framework_templates_tags_welcome.html
